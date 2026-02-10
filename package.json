@@ -1,0 +1,20 @@
+{
+  "name": "meetchat",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">✨ Full-Stack Chat App with Auth & Emails ✨</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikaspratap0818/MeetChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikaspratap0818/MeetChat/issues"
+  },
+  "homepage": "https://github.com/vikaspratap0818/MeetChat#readme"
+}
